@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+      <loc>https://visitblg.ru/</loc>
+      <lastmod>2026-09-06</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://visitblg.ru/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://visitblg.ru/en/"/>
+      <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://visitblg.ru/cn/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://visitblg.ru/"/>
+      <image:image>
+        <image:loc>https://visitblg.ru/assets/og-preview.jpg</image:loc>
+        <image:title>Благовещенск — город на Амуре, лицом к Китаю</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://visitblg.ru/assets/hero.jpg</image:loc>
+        <image:title>Триумфальная арка на набережной Амура, за рекой — китайский Хэйхэ</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://visitblg.ru/assets/ropeway.jpg</image:loc>
+        <image:title>Канатная дорога Благовещенск — Хэйхэ, проектная визуализация терминала</image:title>
+      </image:image>
+    </url>
+    <url>
+      <loc>https://visitblg.ru/en/</loc>
+      <lastmod>2026-09-06</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://visitblg.ru/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://visitblg.ru/en/"/>
+      <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://visitblg.ru/cn/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://visitblg.ru/"/>
+    </url>
+    <url>
+      <loc>https://visitblg.ru/cn/</loc>
+      <lastmod>2026-09-06</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="ru" href="https://visitblg.ru/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://visitblg.ru/en/"/>
+      <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://visitblg.ru/cn/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://visitblg.ru/"/>
+    </url>
+    <url>
+      <loc>https://visitblg.ru/stati/</loc>
+      <lastmod>2026-09-06</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+    <url>
+      <loc>https://visitblg.ru/stati/dinozavry-v-blagoveshchenske/</loc>
+      <lastmod>2026-09-06</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <image:image>
+        <image:loc>https://visitblg.ru/assets/photo/muzey-dinozavrov.jpg</image:loc>
+        <image:title>Модель гадрозавра в натуральную величину в интерактивном музее динозавров на площади Ленина в Благовещенске</image:title>
+      </image:image>
+    </url>
+    <url>
+      <loc>https://visitblg.ru/stati/blagoveshchensk-za-odin-den/</loc>
+      <lastmod>2026-09-03</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <image:image>
+        <image:loc>https://visitblg.ru/assets/photo/pamyatnik-muravyovu.jpg</image:loc>
+        <image:title>Памятник Муравьёву-Амурскому в Благовещенске летом, вокруг цветники и старинные кирпичные здания</image:title>
+      </image:image>
+    </url>
+    <url>
+      <loc>https://visitblg.ru/stati/kogda-ehat-v-blagoveshchensk/</loc>
+      <lastmod>2026-09-03</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <image:image>
+        <image:loc>https://visitblg.ru/assets/photo/lotos.jpg</image:loc>
+        <image:title>Цветущий краснокнижный лотос Комарова на озере под Благовещенском</image:title>
+      </image:image>
+    </url>
+    <url>
+      <loc>https://visitblg.ru/stati/poezdka-v-heihe/</loc>
+      <lastmod>2026-09-03</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <image:image>
+        <image:loc>https://visitblg.ru/assets/photo/heihe-noch-s-naberezhnoy.jpg</image:loc>
+        <image:title>Ночной Хэйхэ с набережной Благовещенска: небоскрёбы в красной подсветке с китайскими иероглифами отражаются в Амуре</image:title>
+      </image:image>
+    </url>
+    <url>
+      <loc>https://visitblg.ru/stati/starinnye-zdaniya-blagoveshchenska/</loc>
+      <lastmod>2026-09-03</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <image:image>
+        <image:loc>https://visitblg.ru/assets/photo/kupechesky-dom-kupol.jpg</image:loc>
+        <image:title>Торговый дом «И. Я. Чурин и Ко» в Благовещенске летом: жёлто-белый фасад с куполом и скульптурами на кровле</image:title>
+      </image:image>
+    </url>
+</urlset>
